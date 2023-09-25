@@ -14,11 +14,7 @@ Student Name: ________________________________
 |[Network adapter](https://www.amazon.ca/Cable-Matters-SuperSpeed-Gigabit-Ethernet/dp/B00BBD7NFU)  |      20.99 |      1 |             |    |     |       20.99 |                         |          Semester 2 |
 |[Ethernet cable](https://www.amazon.ca/StarTech-com-Cat5e-Ethernet-Cable1-Snagless/dp/B0002XGHBQ) |       9.49 |      1 |             |    |     |        9.49 |                         |          Semester 2 |
 |*Sensor/Effector*                                                                                 |      *TBD* |      1 |             |    |*TBD*|             |                   *TBD* |      *Reading Week* |
-|[Stacking Header](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1979/6238003) |       4.24 |      1 |             |    | 0.55|             |                    4.79 |      *Reading Week* |
-|[Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746)  |       0.81 |      1 |             |    | 0.11|             |                    0.92 |      *Reading Week* |
-|[Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723)  |      12.88 |      1 |             |    | 1.67|             |                   14.55 |      *Reading Week* |
-|[16mm Standoff](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/971160151/6174641)|       1.11 |      4 |             |    | 0.58|             |                    5.02 |      *Reading Week* |
-|[M2.5 Screw](https://www.digikey.ca/en/products/detail/essentra-components/50M025045I016/11638680)|       0.26 |      4 |             |    | 0.14|             |                    1.18 |      *Reading Week* |
+|[SparkFun Micro Magnetometer - MMC5983MA (Qwiic)](https://www.sparkfun.com/products/19921) |     15.95  |     1 |          ~4   |    | ~2 |       0      |                    $22 |      *Reading Week* |
 |[Leadfree Solder](https://www.mouser.ca/ProductDetail/AIM/13949?qs=M7ZD%2F0QMIQw6T6JK0szTqg%3D%3D)|      96.11 |   0.02 |             |    |     |        1.92 |                         |        Reading Week |
 |[PCB](https://github.com/PrototypeZone/ceng317/blob/main/hardware/pcb/PCBPrototypes.md)           |       6.62 |      1 |             |    |     |        6.62 |                         |        Reading Week |
 |3mm Acrylic 12"x24"                                                                               |       7.18 |      1 |             |    |     |        7.18 |                         |        Reading Week |
