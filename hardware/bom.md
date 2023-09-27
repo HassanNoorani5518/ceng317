@@ -13,12 +13,11 @@ Student Name: Hassan Noorani
 |[SenseHat](https://www.digikey.ca/en/products/detail/raspberry-pi/SENSE-HAT/6196429)              |      43.16 |      1 |             |    |     |       43.16 |                         |          Semester 2 |
 |[Network adapter](https://www.amazon.ca/Cable-Matters-SuperSpeed-Gigabit-Ethernet/dp/B00BBD7NFU)  |      20.99 |      1 |             |    |     |       20.99 |                         |          Semester 2 |
 |[Ethernet cable](https://www.amazon.ca/StarTech-com-Cat5e-Ethernet-Cable1-Snagless/dp/B0002XGHBQ) |       9.49 |      1 |             |    |     |        9.49 |                         |          Semester 2 |
-|*Sensor/Effector*                                                                                 |      *TBD* |      1 |             |    |*TBD*|             |                   *TBD* |      *Reading Week* |
-|[SparkFun Micro Magnetometer - MMC5983MA (Qwiic)](https://www.sparkfun.com/products/19921) |     15.95  |     1 |          ~4   |    | ~2 |       0      |                    $22 |      *Reading Week* |
+|[TFMini - Micro LiDAR Module (Qwiic)](https://www.sparkfun.com/products/14786)                    |     31.47  |      1 |          ~4 |    | ~4  |        40   |                         |           2-6 weeks |
 |[Leadfree Solder](https://www.mouser.ca/ProductDetail/AIM/13949?qs=M7ZD%2F0QMIQw6T6JK0szTqg%3D%3D)|      96.11 |   0.02 |             |    |     |        1.92 |                         |        Reading Week |
 |[PCB](https://github.com/PrototypeZone/ceng317/blob/main/hardware/pcb/PCBPrototypes.md)           |       6.62 |      1 |             |    |     |        6.62 |                         |        Reading Week |
 |3mm Acrylic 12"x24"                                                                               |       7.18 |      1 |             |    |     |        7.18 |                         |        Reading Week |
 |[Laser Cutting](https://designandbuiltlabs.simplybook.me/v2/#book/category/2/service/11/count/1/) |      1/min |    TBD |             |    |     |       1/min |                         |        Reading Week |
 |[3D Printing](https://sites.google.com/view/idealab3dprinting/tutorial)                           |  0.15/gram |    TBD |             |    |     |   0.15/gram |                         |        Reading Week |
 |Assembly                                                                                          |    20/hour |    TBD |             |    |     |     20/hour |                         |        Reading Week |
-| **Totals**                                                                                       |            |        |             |    |     | **243.22+** |             **<100.00** |                     |
+| **Totals**                                                                                       |            |        |             |    |     | **56+** |             **<100.00** |                     |
