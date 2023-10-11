@@ -13,7 +13,9 @@ Student Name: Hassan Noorani
 |[SenseHat](https://www.digikey.ca/en/products/detail/raspberry-pi/SENSE-HAT/6196429)              |      43.16 |      1 |             |    |     |       43.16 |                         |          Semester 2 |
 |[Network adapter](https://www.amazon.ca/Cable-Matters-SuperSpeed-Gigabit-Ethernet/dp/B00BBD7NFU)  |      20.99 |      1 |             |    |     |       20.99 |                         |          Semester 2 |
 |[Ethernet cable](https://www.amazon.ca/StarTech-com-Cat5e-Ethernet-Cable1-Snagless/dp/B0002XGHBQ) |       9.49 |      1 |             |    |     |        9.49 |                         |          Semester 2 |
-|[TFMini - Micro LiDAR Module (Qwiic)](https://www.sparkfun.com/products/14786)                    |     31.47  |      1 |          ~4 |    | ~4  |        40   |                    40.00|           2-6 weeks |
+|[Wheel - 65mm (Rubber Tire, Pair) (Qwiic)](https://www.sparkfun.com/products/13259))              |          7 |      2 |             |    |     |        7    |                    7.00 |           2-6 weeks |
+|[Hobby Gearmotor - 140 RPM (Pair) (Qwiic)](https://www.sparkfun.com/products/13302))              |       5.50 |      1 |             |    |     |        5.50 |                    5.50 |           2-6 weeks |
+|[SparkFun Qwiic Motor Driver (Qwiic)](https://www.sparkfun.com/products/15451)                    |      19.50 |      1 |        7.48 |    |     |        26.98|                    26.98|           2-6 weeks |
 |[Stacking Header](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1979/6238003) |       4.24 |      1 |             |    | 0.55|             |                    4.79 |      *Reading Week* |
 |[Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746)  |       0.81 |      1 |             |    | 0.11|             |                    0.92 |      *Reading Week* |
 |[Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723)  |      12.88 |      1 |             |    | 1.67|             |                   14.55 |      *Reading Week* |
@@ -25,4 +27,4 @@ Student Name: Hassan Noorani
 |[Laser Cutting](https://designandbuiltlabs.simplybook.me/v2/#book/category/2/service/11/count/1/) |      1/min |    TBD |             |    |     |       1/min |                         |        Reading Week |
 |[3D Printing](https://sites.google.com/view/idealab3dprinting/tutorial)                           |  0.15/gram |    TBD |             |    |     |   0.15/gram |                         |        Reading Week |
 |Assembly                                                                                          |    20/hour |    TBD |             |    |     |     20/hour |                         |        Reading Week |
-| **Totals**                                                                                       |            |        |             |    |     | **56+** |             **<66.44** |                     |
+| **Totals**                                                                                       |            |        |             |    |     |     **56+** |             **65.94**   |                     |
