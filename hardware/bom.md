@@ -27,4 +27,4 @@ Student Name: Hassan Noorani
 |[Laser Cutting](https://designandbuiltlabs.simplybook.me/v2/#book/category/2/service/11/count/1/) |      1/min |    TBD |             |    |     |       1/min |                         |        Reading Week |
 |[3D Printing](https://sites.google.com/view/idealab3dprinting/tutorial)                           |  0.15/gram |    TBD |             |    |     |   0.15/gram |                         |        Reading Week |
 |Assembly                                                                                          |    20/hour |    TBD |             |    |     |     20/hour |                         |        Reading Week |
-| **Totals**                                                                                       |            |        |             |    |     |     **56+** |             **65.94**   |                     |
+| **Totals**                                                                                       |            |        |             |    |     |     **56+** |             **~70.86**   |                     |
